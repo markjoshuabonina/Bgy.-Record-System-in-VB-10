@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RecordBgySystemDeclaration
+</name>
+</assembly>
+<members>
+<member name="P:RecordBgySystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RecordBgySystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:RecordBgySystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblCertificatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblClearanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblRbiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblResolutionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblSecretaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblCountersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblCertificatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblClearanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblRbiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblResolutionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblSecretaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblCountersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblCertificatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblClearanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblRbiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblResolutionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblSecretaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RecordBgySystem.DataSet.tblCountersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RecordBgySystem.DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.tblCertificatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.tblClearanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.tblRbiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.tblResolutionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.tblSecretaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.tblCountersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:RecordBgySystem.DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(RecordBgySystem.DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:RecordBgySystem.DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(RecordBgySystem.DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:RecordBgySystem.DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(RecordBgySystem.DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:RecordBgySystem.DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:RecordBgySystem.DataSetTableAdapters.TableAdapterManager.UpdateAll(RecordBgySystem.DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:RecordBgySystem.DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

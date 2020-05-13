@@ -1,0 +1,295 @@
+C:\Users\Joshua\documents\visual studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Form1.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Form1.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Documents\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Form1.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Pictures\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Form1.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+C:\Users\Yay\Documents\Visual Studio 2010\Projects\RecordBgySystemDeclaration\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Form1.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Form1.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Desktop\EditedBDRMS latest\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\kilajus\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Desktop\kilajus\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\kilajus\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\kilajus\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Form1.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Desktop\kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmPrint.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmPrint.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+E:\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmPrint.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Desktop\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe.config
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\my_dbase.accdb
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.exe
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.pdb
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\bin\Debug\RecordBgySystemDeclaration.xml
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.CerfDialogdelete.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.cerfDialogSure.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogdelete.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ClearanceDialogSure.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUs.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmAboutUsandUtilities.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmCertificate.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmClearance.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmMain.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmPrint.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmRbi.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmResolutions.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.frmSecretary.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Resources.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDiagalog_delete.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.RbiDialogSure.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.ResolutionDialogSure.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystem.Res_delete.resources
+C:\Users\Joshua\Documents\system hCi\1  1 kilajus - Copy\RecordBgySystemDeclaration\obj\x86\Debug\RecordBgySystemDeclaration.vbproj.GenerateResource.Cache
